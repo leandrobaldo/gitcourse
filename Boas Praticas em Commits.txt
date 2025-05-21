@@ -1,0 +1,16 @@
+📌 Especifique o tipo de commit: Utilize prefixos no assunto referente ao tipo de cada commit. Ex:
+
+feat: uma nova feature (recurso) que você está adicionando a uma aplicação específica ;
+fix: a resolução de um bug;
+style: recurso e atualizações relacionadas à estilização;
+refactor: refatoração de uma seção específica da base de código;
+test: tudo o que for relacionado a testes;
+docs: tudo o que for relacionado à documentação;
+chore: manutenção regular do código. (Você também pode usar emojis para representar os tipos de commit).
+📌 Use um verbo no infinitivo: A mensagem do campo “Assunto” (primeira linha) deve iniciar a com um verbo no infinitivo que descreva a ação realizada (Ex: "Adicionar", "Corrigir" ou "Atualizar"), seguido por uma descrição concisa da mudança. Ex: "Adicionar validação de formulário para garantir que todos os campos obrigatórios sejam preenchidos".
+
+📌 Mantenha-a curta e concisa: As mensagens de commit devem ser curtas e diretas, com no máximo 72 caracteres na primeira linha (assunto) e uma linha em branco após a primeira linha (descrição). Isso torna mais fácil para outros desenvolvedores entenderem rapidamente o que foi feito.
+
+📌Forneça contexto: A segunda linha da mensagem deve fornecer um contexto adicional sobre o que foi feito. Por exemplo, se você estiver corrigindo um bug, descreva o problema resolvido.
+
+📌 Mantenha-a clara e objetiva: Mantenha a mensagem clara e objetiva, sem usar jargões ou frases excessivamente técnicas. Isso ajuda a garantir que a mensagem seja compreendida por todos os membros da equipe.
